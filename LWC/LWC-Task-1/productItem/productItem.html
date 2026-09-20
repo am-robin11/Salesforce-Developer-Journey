@@ -1,0 +1,16 @@
+<template>
+    <lightning-card title="Product" icon-name="standard:product_item">
+        <div class="slds-p-horizontal_medium">
+            <p>Name: <strong>{upperProductName}</strong></p>
+            <p>Price: <strong>{price}</strong></p>
+            <p>Stock Count: <strong>{stockCount}</strong></p>
+
+            <lightning-button
+                label="Sell 1 Unit"
+                variant="brand"
+                onclick={handleSellClick}
+                class="slds-m-top_small">
+            </lightning-button>
+        </div>
+    </lightning-card>
+</template>

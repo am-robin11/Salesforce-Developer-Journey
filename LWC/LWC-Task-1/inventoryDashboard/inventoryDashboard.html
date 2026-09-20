@@ -1,0 +1,35 @@
+<template>
+    <lightning-card title="Product Inventory" icon-name="custom:custom67">
+        <div class="slds-p-horizontal_medium">
+
+            <!-- Debounced Search Input (Prevents spamming server queries) -->
+            <lightning-input
+                type="search"
+                label="Search Products"
+                onchange={handleSearchInput}
+                class="slds-m-bottom_medium">
+            </lightning-input>
+
+            <p>Showing <strong>{filteredItems.length}</strong> of {myitemList.length} items</p>
+
+            <div class="slds-m-top_small">
+                <template for:each={filteredItems} for:item="item">
+                    <c-product-item
+                        key={item.Id}
+                        item-id={item.Id}
+                        name={item.Name}
+                        price={item.Price}
+                        stock-count={item.Stock_Count}
+                        onstockchange={handleStockChange}
+                        class="slds-m-vertical_small slds-p-around_x-small slds-box">
+                    </c-product-item>
+                </template>
+            </div>
+
+            <div class="slds-box slds-theme_shade slds-m-top_medium">
+                <p>Total Inventory Valuation: <strong>${sumTotal}</strong></p>
+            </div>
+
+        </div>
+    </lightning-card>
+</template>
