@@ -1,0 +1,21 @@
+Name,Amount,StageName,CloseDate
+Exam Opp 01 - Mega Deal Tier 1,3500000,Id. Decision Makers,2026-09-28
+Exam Opp 02 - Enterprise Expansion,2200000,Perception Analysis,2026-09-28
+Exam Opp 03 - Cloud Migration Global,5000000,Id. Decision Makers,2026-09-28
+Exam Opp 04 - Government Infrastructure,4100000,Perception Analysis,2026-09-28
+Exam Opp 05 - Strategic Acquisition,2800000,Id. Decision Makers,2026-09-28
+Exam Opp 06 - High Value Early Stage,3000000,Prospecting,2026-09-28
+Exam Opp 07 - Tech Refresh Blueprint,2500000,Needs Analysis,2026-09-28
+Exam Opp 08 - Server Farm Deployment,4500000,Value Proposition,2026-09-28
+Exam Opp 09 - Mid Market Suite,500000,Prospecting,2026-09-28
+Exam Opp 10 - Hardware Upgrade,150000,Qualification,2026-09-28
+Exam Opp 11 - Software Licensing,1200000,Needs Analysis,2026-09-28
+Exam Opp 12 - Consulting Services,850000,Value Proposition,2026-09-28
+Exam Opp 13 - Security Auditing Renewal,350000,Id. Decision Makers,2026-09-28
+Exam Opp 14 - Logistics Systems SaaS,1950000,Perception Analysis,2026-09-28
+Exam Opp 15 - CRM Sandbox Clean,90000,Qualification,2026-09-28
+Control Opp 16 - Exclude Proposal Stage,1500000,Proposal/Price Quote,2026-09-28
+Control Opp 17 - Exclude Negotiation Stage,2600000,Negotiation/Review,2026-09-28
+Control Opp 18 - Exclude Won Deal,500000,Closed Won,2026-09-28
+Control Opp 19 - Exclude Future Month,3200000,Id. Decision Makers,2026-10-15
+Control Opp 20 - Exclude Next Quarter,750000,Prospecting,2026-10-15

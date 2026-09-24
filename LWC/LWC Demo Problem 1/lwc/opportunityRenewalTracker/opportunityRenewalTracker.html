@@ -1,0 +1,74 @@
+<template>
+    <lightning-card title="Opportunity Renewal Tracker" icon-name="standard:opportunity">
+        <div class="slds-p-horizontal_medium slds-p-bottom_medium">
+
+            <lightning-combobox
+                label="Filter by Stage"
+                value={stageFilter}
+                options={stageOptions}
+                onchange={handleStageChange}>
+            </lightning-combobox>
+
+            <template lwc:if={hasError}>
+                <p class="slds-text-color_error slds-m-top_small">{errorMessage}</p>
+            </template>
+
+            <template lwc:if={summary}>
+                <div class="slds-grid slds-m-vertical_small slds-box slds-theme_shade">
+                    <div class="slds-col">
+                        <p class="slds-text-title_caps">Total Pipeline (next 30 days)</p>
+                        <lightning-formatted-number
+                            value={totalPipelineValue}
+                            format-style="currency"
+                            currency-code="USD">
+                        </lightning-formatted-number>
+                    </div>
+                    <div class="slds-col">
+                        <p class="slds-text-title_caps">Overdue</p>
+                        <p class="slds-text-heading_medium">{overdueCount}</p>
+                    </div>
+                </div>
+
+                <template for:each={opportunityRows} for:item="opp">
+                    <div key={opp.Id} class={opp.rowClass}>
+                        <p class="slds-text-heading_small">{opp.Name}</p>
+                        <p>Stage: {opp.StageName} &nbsp;|&nbsp; Probability: {opp.Probability}%</p>
+                        <p>
+                            Amount:
+                            <lightning-formatted-number
+                                value={opp.Amount}
+                                format-style="currency"
+                                currency-code="USD">
+                            </lightning-formatted-number>
+                        </p>
+                        <p>Close Date: <lightning-formatted-date-time value={opp.CloseDate}></lightning-formatted-date-time></p>
+
+                        <div class="slds-m-top_x-small">
+                            <template lwc:if={opp.isOverdue}>
+                                <lightning-button
+                                    label="Push 30 Days"
+                                    variant="destructive"
+                                    data-id={opp.Id}
+                                    onclick={handlePushDate}
+                                    class="slds-m-right_x-small">
+                                </lightning-button>
+                            </template>
+                            <lightning-button
+                                label="Mark Closed Won"
+                                variant="brand"
+                                data-id={opp.Id}
+                                onclick={handleMarkWon}>
+                            </lightning-button>
+                        </div>
+                    </div>
+                </template>
+
+                <template lwc:if={hasNoRows}>
+                    <p class="slds-align_absolute-center slds-p-around_medium">
+                        No open opportunities closing in the next 30 days for this stage.
+                    </p>
+                </template>
+            </template>
+        </div>
+    </lightning-card>
+</template>
