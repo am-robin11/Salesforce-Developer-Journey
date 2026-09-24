@@ -1,0 +1,59 @@
+<template>
+    <lightning-card title="Early-Stage Deals At Risk (Closing This Month)" icon-name="standard:opportunity">
+        <div class="slds-p-horizontal_medium slds-p-bottom_medium">
+
+            <template lwc:if={hasError}>
+                <p class="slds-text-color_error">{errorMessage}</p>
+            </template>
+
+            <template lwc:if={summary}>
+                <div class="slds-box slds-theme_shade slds-m-vertical_small">
+                    <p class="slds-text-title_caps">Total At-Risk Value</p>
+                    <lightning-formatted-number
+                        value={totalAtRiskValue}
+                        format-style="currency"
+                        currency-code="USD">
+                    </lightning-formatted-number>
+                </div>
+
+                <template for:each={opportunities} for:item="opp">
+                    <div key={opp.Id} class="slds-box slds-m-bottom_x-small">
+                        <p class="slds-text-heading_small">{opp.Name}</p>
+                        <p>Stage: {opp.StageName}</p>
+                        <p>
+                            Amount:
+                            <lightning-formatted-number
+                                value={opp.Amount}
+                                format-style="currency"
+                                currency-code="USD">
+                            </lightning-formatted-number>
+                        </p>
+                        <p>Close Date: <lightning-formatted-date-time value={opp.CloseDate}></lightning-formatted-date-time></p>
+
+                        <div class="slds-m-top_x-small">
+                            <lightning-button
+                                label="Escalate"
+                                variant="destructive"
+                                data-id={opp.Id}
+                                onclick={handleEscalate}
+                                class="slds-m-right_x-small">
+                            </lightning-button>
+                            <lightning-button
+                                label="Fast-Track to Proposal"
+                                variant="brand"
+                                data-id={opp.Id}
+                                onclick={handleAdvance}>
+                            </lightning-button>
+                        </div>
+                    </div>
+                </template>
+
+                <template lwc:if={hasNoRows}>
+                    <p class="slds-align_absolute-center slds-p-around_medium">
+                        No at-risk opportunities this month.
+                    </p>
+                </template>
+            </template>
+        </div>
+    </lightning-card>
+</template>
