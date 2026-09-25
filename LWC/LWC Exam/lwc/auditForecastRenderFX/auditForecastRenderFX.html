@@ -1,0 +1,45 @@
+<template>
+    <lightning-card title="Forecast Manager" icon-name="standard:forecasts">
+        <div class="slds-p-horizontal_medium slds-p-bottom_medium">
+
+            <template lwc:if={hasError}>
+                <p class="slds-text-color_error">{errorMessage}</p>
+            </template>
+
+            <template for:each={opportunities} for:item="opp">
+                <div key={opp.Id} class="slds-box slds-m-bottom_x-small">
+                    <p class="slds-text-heading_small">{opp.Name}</p>
+                    <p>
+                        Amount:
+                        <lightning-formatted-number
+                            value={opp.Amount}
+                            format-style="currency"
+                            currency-code="USD">
+                        </lightning-formatted-number>
+                    </p>
+                    <p>Probability: {opp.Probability}%</p>
+                    <p>
+                        Expected Revenue (Overridden):
+                        <lightning-formatted-number
+                            value={opp.Expected_Revenue_Overridden__c}
+                            format-style="currency"
+                            currency-code="USD">
+                        </lightning-formatted-number>
+                    </p>
+                    <lightning-button
+                        label="Set Expected Revenue"
+                        variant="brand"
+                        data-id={opp.Id}
+                        onclick={handleProcessRevenue}>
+                    </lightning-button>
+                </div>
+            </template>
+
+            <template lwc:if={hasNoRows}>
+                <p class="slds-align_absolute-center slds-p-around_medium">
+                    No qualifying opportunities this month.
+                </p>
+            </template>
+        </div>
+    </lightning-card>
+</template>
