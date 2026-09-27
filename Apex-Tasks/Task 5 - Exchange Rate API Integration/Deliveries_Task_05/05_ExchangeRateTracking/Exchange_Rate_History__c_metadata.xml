@@ -1,0 +1,81 @@
+<!-- Exchange_Rate_History__c/Exchange_Rate_History__c.object-meta.xml -->
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Exchange Rate History</label>
+    <pluralLabel>Exchange Rate Histories</pluralLabel>
+    <nameField>
+        <type>AutoNumber</type>
+        <label>Exchange Rate History Name</label>
+        <displayFormat>ERH-{0000}</displayFormat>
+    </nameField>
+    <deploymentStatus>Deployed</deploymentStatus>
+    <sharingModel>ReadWrite</sharingModel>
+</CustomObject>
+
+<!-- fields/Base_Currency__c.field-meta.xml -->
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Base_Currency__c</fullName>
+    <label>Base Currency</label>
+    <type>Text</type>
+    <length>3</length>
+    <description>Always BDT</description>
+</CustomField>
+
+<!-- fields/Target_Currency__c.field-meta.xml -->
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Target_Currency__c</fullName>
+    <label>Target Currency</label>
+    <type>Text</type>
+    <length>10</length>
+    <description>USD, EUR, JPY, etc.</description>
+</CustomField>
+
+<!-- fields/Exchange_Rate__c.field-meta.xml -->
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Exchange_Rate__c</fullName>
+    <label>Exchange Rate</label>
+    <type>Number</type>
+    <precision>18</precision>
+    <scale>8</scale>
+    <description>Rate received from the API</description>
+</CustomField>
+
+<!-- fields/Retrieved_Date_Time__c.field-meta.xml -->
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Retrieved_Date_Time__c</fullName>
+    <label>Retrieved Date Time</label>
+    <type>DateTime</type>
+    <description>Timestamp when the rate was fetched</description>
+</CustomField>
+
+<!-- fields/API_Status__c.field-meta.xml -->
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>API_Status__c</fullName>
+    <label>API Status</label>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value><fullName>Success</fullName><default>true</default><label>Success</label></value>
+            <value><fullName>Failed</fullName><default>false</default><label>Failed</label></value>
+        </valueSetDefinition>
+    </valueSet>
+    <description>Success or Failed</description>
+</CustomField>
+
+<!-- fields/Error_Details__c.field-meta.xml -->
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Error_Details__c</fullName>
+    <label>Error Details</label>
+    <type>LongTextArea</type>
+    <length>32768</length>
+    <visibleLines>5</visibleLines>
+    <description>Failure information, if applicable</description>
+</CustomField>

@@ -1,0 +1,501 @@
+﻿Name,StageName,CloseDate,Amount,Expected_Currency_Type__c
+Apex Retail - CRM Modernization,Prospecting,2026-12-05,123000,JPY
+Momentum Textiles - CRM Integration,Id. Decision Makers,2027-05-12,4039000,CAD
+Delta Finance - Distribution Platform Implementation,Prospecting,2026-11-24,723000,USD
+Crescent Engineering - Analytics Implementation,Id. Decision Makers,2027-03-24,2349000,JPY
+Atlas Manufacturing - Service Automation,Qualification,2027-05-06,472000,GBP
+Frontier Group - ERP Integration,Needs Analysis,2026-12-06,450000,USD
+Sterling Logistics - Application Modernization,Prospecting,2026-10-20,3385000,EUR
+Galaxy Energy - CRM Modernization,Perception Analysis,2027-03-31,1547000,JPY
+BlueWave Finance - Sales Automation,Needs Analysis,2027-02-14,380000,INR
+TechNova Enterprises - Sales Automation,Proposal/Price Quote,2027-02-20,86000,JPY
+Evergreen Holdings - Dealer Management Project,Qualification,2026-12-09,48700000,USD
+Summit Logistics - Enterprise Software Deal,Prospecting,2026-12-06,3560000,USD
+Infinity Solutions - CRM Implementation,Qualification,2027-03-16,408000,USD
+Cityscape Motors - Distribution Platform Implementation,Value Proposition,2026-11-08,2554000,AUD
+Delta Holdings - Customer Service Transformation,Needs Analysis,2027-03-08,2342000,USD
+BlueWave Industries - Digital Transformation,Proposal/Price Quote,2027-04-12,481000,AUD
+Harmony Holdings - CRM Modernization,Qualification,2026-12-03,347000,USD
+Crystal Logistics - Analytics Implementation,Qualification,2027-03-12,4349000,CHF
+Apex Trading - Customer Service Transformation,Prospecting,2027-04-04,2704000,USD
+Apex Logistics - System Integration,Needs Analysis,2027-02-22,2340000,CAD
+Golden Logistics - Application Modernization,Prospecting,2027-01-30,75000,INR
+Vision Group - Sales Cloud Deployment,Prospecting,2026-11-05,12083000,SGD
+Horizon Systems - Digital Transformation,Needs Analysis,2027-02-25,37754000,JPY
+Royal Holdings - Salesforce Implementation,Value Proposition,2026-09-28,1461000,EUR
+BrightStar Solutions - Customer Experience Enhancement,Value Proposition,2026-12-03,10707000,AUD
+Skyline Holdings - Analytics Implementation,Needs Analysis,2027-01-20,429000,USD
+Skyline Motors - CRM Modernization,Qualification,2027-02-01,13517000,CHF
+SilverLine Engineering - Data Migration Project,Proposal/Price Quote,2026-12-11,13517000,CHF
+GreenField Holdings - CRM Integration,Prospecting,2027-04-09,458000,JPY
+GlobalTech Services - Analytics Implementation,Proposal/Price Quote,2027-02-26,663000,CNY
+Prime Bank - CRM Modernization,Needs Analysis,2027-04-26,9017000,USD
+SilverLine Retail - CRM Modernization,Proposal/Price Quote,2026-10-16,305000,USD
+Horizon Pharmaceuticals - Salesforce Implementation,Negotiation/Review,2027-02-09,7154000,SGD
+GreenField Group - Application Modernization,Negotiation/Review,2026-11-07,368000,AUD
+GlobalTech Enterprises - CRM Implementation,Qualification,2027-02-11,16574000,GBP
+GlobalTech Systems - Enterprise Software Deal,Qualification,2027-03-16,4175000,USD
+Atlas Logistics - Digital Transformation,Needs Analysis,2026-11-28,227000,CHF
+Delta Bank - Application Modernization,Value Proposition,2027-02-23,87000,USD
+Royal Consulting - Service Automation,Prospecting,2026-10-13,19422000,AUD
+Redwood Trading - Dealer Management Project,Value Proposition,2026-12-06,2297000,EUR
+Royal Group - Customer Experience Enhancement,Id. Decision Makers,2027-05-09,4465000,JPY
+Sunrise Motors - CRM Modernization,Needs Analysis,2027-01-08,101000,EUR
+Velocity Holdings - System Integration,Qualification,2027-01-09,954000,AUD
+GreenField Bank - Workflow Automation,Negotiation/Review,2026-10-21,432000,AUD
+Eastern Finance - Service Cloud Deployment,Proposal/Price Quote,2026-11-28,331000,EUR
+Nexus Finance - Dealer Management Project,Needs Analysis,2026-12-06,1132000,GBP
+TechNova Systems - Enterprise Software Deal,Proposal/Price Quote,2027-02-13,392000,GBP
+Vision Energy - Cloud Migration,Proposal/Price Quote,2026-10-19,19239000,INR
+Orion Systems - Workflow Automation,Needs Analysis,2027-01-27,260000,USD
+Harmony Electronics - Salesforce Implementation,Prospecting,2026-09-26,28899000,CHF
+Eastern Services - Business Process Automation,Perception Analysis,2026-12-08,4582000,CNY
+Prime Energy - Service Cloud Deployment,Qualification,2026-10-10,1011000,USD
+Crescent Healthcare - Cloud Migration,Prospecting,2027-02-22,4955000,CAD
+BlueWave Pharmaceuticals - Salesforce Implementation,Negotiation/Review,2026-10-16,6150000,USD
+Sterling Engineering - CRM Implementation,Id. Decision Makers,2026-11-25,2565000,JPY
+Atlas Holdings - Workflow Automation,Prospecting,2026-10-16,4885000,JPY
+Nova Motors - CRM Integration,Qualification,2027-03-16,2502000,EUR
+Zenith Electronics - CRM Integration,Prospecting,2027-03-10,216000,EUR
+Skyline Industries - Customer Service Transformation,Negotiation/Review,2026-09-28,1339000,CNY
+Eastern Technologies - Cloud Migration,Qualification,2026-12-02,233000,USD
+Apex Electronics - Business Process Automation,Proposal/Price Quote,2026-12-29,280000,CHF
+Orion Telecom - Business Process Automation,Id. Decision Makers,2027-03-01,47082000,SGD
+Infinity Corporation - Service Cloud Deployment,Prospecting,2027-04-23,1369000,AUD
+NorthStar Telecom - Enterprise Software Deal,Prospecting,2026-10-25,17456000,CNY
+Galaxy Telecom - Distribution Platform Implementation,Qualification,2027-02-27,230000,JPY
+Golden Trading - CRM Implementation,Value Proposition,2026-12-02,2607000,USD
+Golden Technologies - Sales Cloud Deployment,Proposal/Price Quote,2026-10-19,2821000,CHF
+Orion Textiles - Business Process Automation,Qualification,2026-10-29,2697000,USD
+Nexus Group - Cloud Migration,Needs Analysis,2027-03-25,581000,USD
+Horizon Telecom - Dealer Management Project,Negotiation/Review,2027-03-21,14153000,USD
+SilverLine Group - ERP Integration,Needs Analysis,2027-02-14,117000,USD
+Prime Electronics - Customer Experience Enhancement,Needs Analysis,2027-04-17,21339000,USD
+Sterling Electronics - CRM Modernization,Qualification,2026-11-28,3467000,CHF
+Sunrise Pharmaceuticals - Application Modernization,Proposal/Price Quote,2027-01-08,45148000,CAD
+Beacon Systems - Customer Experience Enhancement,Negotiation/Review,2027-05-05,469000,USD
+GreenField Technologies - Sales Automation,Proposal/Price Quote,2026-10-02,224000,SGD
+Unity Motors - CRM Modernization,Needs Analysis,2027-03-16,18602000,CAD
+Unity Corporation - Customer Experience Enhancement,Prospecting,2027-03-24,70000,EUR
+Eastern Motors - Sales Automation,Qualification,2027-04-23,10866000,SGD
+Nova Electronics - CRM Modernization,Perception Analysis,2026-11-23,396000,EUR
+Delta Energy - ERP Integration,Qualification,2027-05-05,455000,USD
+BrightStar Pharmaceuticals - Dealer Management Project,Id. Decision Makers,2027-01-06,4998000,EUR
+Summit Telecom - Workflow Automation,Prospecting,2027-05-08,25992000,EUR
+Golden Engineering - Customer Portal Development,Negotiation/Review,2026-10-05,278000,JPY
+Evergreen Consulting - Dealer Management Project,Perception Analysis,2027-01-15,4790000,EUR
+Pioneer Retail - Workflow Automation,Proposal/Price Quote,2026-11-13,422000,USD
+Infinity Electronics - ERP Integration,Value Proposition,2027-04-20,2153000,GBP
+Zenith Manufacturing - System Integration,Prospecting,2027-03-15,15455000,EUR
+Infinity Trading - Salesforce Implementation,Proposal/Price Quote,2027-03-29,13508000,EUR
+Evergreen Electronics - Sales Automation,Needs Analysis,2027-01-07,1568000,EUR
+Nexus Logistics - Workflow Automation,Id. Decision Makers,2027-01-01,1960000,USD
+Orion Manufacturing - Partner Portal Implementation,Qualification,2027-02-13,10098000,JPY
+Nova Industries - Digital Transformation,Needs Analysis,2027-02-21,3203000,EUR
+Evergreen Foods - System Integration,Needs Analysis,2026-11-19,1923000,GBP
+Vertex Textiles - CRM Integration,Qualification,2027-03-14,3312000,AUD
+Unity Engineering - Customer Service Transformation,Negotiation/Review,2026-11-25,2384000,USD
+Frontier Finance - Sales Automation,Prospecting,2026-10-07,299000,CAD
+Crystal Telecom - Partner Portal Implementation,Perception Analysis,2027-01-20,2131000,JPY
+BrightStar Group - Salesforce Implementation,Needs Analysis,2027-01-06,394000,AUD
+Summit Finance - CRM Modernization,Proposal/Price Quote,2027-05-04,6788000,AUD
+Metro Solutions - Service Automation,Qualification,2027-04-19,37380000,CAD
+Zenith Logistics - Customer Experience Enhancement,Value Proposition,2027-05-01,120000,GBP
+Apex Enterprises - Data Migration Project,Id. Decision Makers,2027-02-16,4213000,CAD
+Eastern Trading - Cloud Migration,Id. Decision Makers,2027-02-02,4241000,JPY
+Infinity Manufacturing - Salesforce Implementation,Perception Analysis,2027-01-25,2574000,CHF
+Frontier Telecom - Application Modernization,Qualification,2027-04-13,2507000,SGD
+Atlas Healthcare - Sales Automation,Prospecting,2026-12-08,226000,EUR
+Nexus Industries - CRM Modernization,Value Proposition,2026-10-31,251000,EUR
+Galaxy Electronics - Sales Automation,Id. Decision Makers,2026-10-12,3276000,AUD
+GlobalTech Corporation - Cloud Migration,Needs Analysis,2026-11-17,11534000,JPY
+SilverLine Enterprises - Sales Automation,Value Proposition,2027-03-23,451000,CHF
+Velocity Pharmaceuticals - Digital Transformation,Needs Analysis,2026-12-25,254000,JPY
+Sterling Finance - Sales Cloud Deployment,Negotiation/Review,2027-01-11,2350000,SGD
+Zenith Corporation - Sales Cloud Deployment,Qualification,2027-01-28,226000,GBP
+Infinity Finance - Business Process Automation,Perception Analysis,2027-03-30,295000,AUD
+Atlas Motors - Sales Automation,Negotiation/Review,2027-02-09,257000,CHF
+Nexus Energy - Application Modernization,Id. Decision Makers,2026-10-17,1638000,JPY
+Sterling Energy - Customer Experience Enhancement,Qualification,2026-12-01,2276000,SGD
+Galaxy Systems - Enterprise Software Deal,Qualification,2027-05-09,4036000,GBP
+BlueWave Textiles - Platform Upgrade,Prospecting,2026-09-30,937000,EUR
+Crescent Finance - Application Modernization,Qualification,2027-03-11,392000,INR
+Eastern Enterprises - Cloud Migration,Prospecting,2026-11-28,61000,USD
+Nexus Solutions - Service Automation,Qualification,2027-01-25,2328000,JPY
+Redwood Energy - Cloud Migration,Qualification,2026-12-29,368000,GBP
+Sterling Healthcare - Application Modernization,Id. Decision Makers,2027-04-13,10218000,INR
+Beacon Trading - Sales Cloud Deployment,Prospecting,2026-12-14,3648000,USD
+BlueWave Engineering - Customer Service Transformation,Id. Decision Makers,2026-10-15,2537000,EUR
+Vertex Trading - Sales Cloud Deployment,Perception Analysis,2027-05-01,1515000,USD
+Galaxy Services - Platform Upgrade,Value Proposition,2026-10-06,4093000,CAD
+Sunrise Healthcare - Partner Portal Implementation,Prospecting,2027-03-10,4024000,AUD
+Velocity Bank - Cloud Migration,Prospecting,2026-12-27,4357000,SGD
+Frontier Healthcare - Enterprise Software Deal,Needs Analysis,2027-04-01,2766000,AUD
+Golden Energy - Workflow Automation,Proposal/Price Quote,2027-04-12,4154000,JPY
+Nova Corporation - Sales Cloud Deployment,Value Proposition,2026-12-17,18937000,SGD
+BrightStar Trading - Customer Experience Enhancement,Qualification,2027-01-19,294000,CNY
+Vision Finance - Platform Upgrade,Id. Decision Makers,2026-12-21,496000,JPY
+Crystal Electronics - Cloud Migration,Needs Analysis,2026-12-25,10710000,EUR
+Sunrise Manufacturing - CRM Implementation,Value Proposition,2027-05-09,55000,EUR
+Crescent Foods - Dealer Management Project,Qualification,2026-11-26,4598000,GBP
+TechNova Logistics - ERP Integration,Qualification,2027-01-25,4617000,JPY
+GreenField Manufacturing - Cloud Migration,Prospecting,2026-12-10,413000,GBP
+Vertex Telecom - Service Cloud Deployment,Id. Decision Makers,2026-12-29,4954000,EUR
+Prime Industries - Digital Transformation,Negotiation/Review,2027-02-13,4306000,EUR
+Metro Motors - Service Automation,Qualification,2026-10-26,3147000,EUR
+NorthStar Motors - Customer Experience Enhancement,Value Proposition,2027-04-09,2107000,USD
+BlueWave Technologies - Sales Cloud Deployment,Needs Analysis,2027-03-30,4901000,USD
+Crystal Services - Distribution Platform Implementation,Negotiation/Review,2027-04-27,169000,JPY
+NorthStar Pharmaceuticals - CRM Implementation,Qualification,2027-03-26,2801000,EUR
+BrightStar Consulting - Analytics Implementation,Prospecting,2026-12-09,1559000,USD
+Atlas Group - Data Migration Project,Perception Analysis,2026-10-22,14631000,JPY
+Crescent Systems - CRM Integration,Needs Analysis,2026-12-22,77000,EUR
+Delta Foods - Customer Portal Development,Proposal/Price Quote,2026-10-25,11723000,EUR
+Apex Services - Enterprise Software Deal,Value Proposition,2027-03-20,128000,GBP
+GlobalTech Holdings - Customer Experience Enhancement,Negotiation/Review,2026-10-17,23975000,SGD
+Unity Healthcare - System Integration,Needs Analysis,2027-02-25,8786000,JPY
+Velocity Trading - Customer Service Transformation,Needs Analysis,2027-01-17,359000,CAD
+Frontier Services - Customer Portal Development,Qualification,2027-03-03,438000,INR
+Crescent Consulting - Analytics Implementation,Perception Analysis,2027-03-05,396000,USD
+Royal Bank - Salesforce Implementation,Qualification,2027-02-14,51000,USD
+GreenField Retail - Business Process Automation,Id. Decision Makers,2027-01-24,171000,GBP
+Apex Bank - Cloud Migration,Qualification,2027-05-04,2458000,EUR
+Cityscape Foods - Sales Automation,Perception Analysis,2027-03-05,2159000,CNY
+Sunrise Services - CRM Integration,Value Proposition,2027-03-10,189000,GBP
+Beacon Technologies - Service Automation,Prospecting,2026-11-07,14983000,SGD
+Velocity Technologies - CRM Modernization,Value Proposition,2026-12-08,4432000,CAD
+Metro Bank - Analytics Implementation,Id. Decision Makers,2026-12-04,4642000,AUD
+Skyline Solutions - Salesforce Implementation,Value Proposition,2027-05-11,3204000,GBP
+TechNova Textiles - Salesforce Implementation,Prospecting,2026-11-23,48050000,JPY
+Vision Electronics - CRM Integration,Value Proposition,2026-10-01,42558000,SGD
+Skyline Logistics - Digital Transformation,Value Proposition,2027-04-09,12894000,SGD
+Golden Group - Platform Upgrade,Needs Analysis,2026-12-06,357000,GBP
+Atlas Bank - Service Cloud Deployment,Perception Analysis,2026-10-19,3925000,GBP
+Vertex Holdings - CRM Implementation,Id. Decision Makers,2027-05-03,266000,EUR
+Galaxy Holdings - Partner Portal Implementation,Qualification,2027-01-06,14229000,AUD
+Orion Industries - Sales Cloud Deployment,Prospecting,2026-11-29,3890000,USD
+Cityscape Engineering - Distribution Platform Implementation,Proposal/Price Quote,2026-09-26,4375000,SGD
+Horizon Energy - Service Cloud Deployment,Qualification,2026-12-27,4682000,GBP
+TechNova Corporation - Business Process Automation,Perception Analysis,2026-11-17,119000,JPY
+Velocity Motors - Platform Upgrade,Needs Analysis,2027-03-23,742000,CNY
+Harmony Pharmaceuticals - Workflow Automation,Value Proposition,2026-11-26,3107000,INR
+SilverLine Finance - Platform Upgrade,Value Proposition,2026-10-19,491000,JPY
+GreenField Finance - Dealer Management Project,Needs Analysis,2026-10-26,1792000,CHF
+Vertex Electronics - Customer Service Transformation,Id. Decision Makers,2027-02-03,3985000,GBP
+Pioneer Motors - ERP Integration,Negotiation/Review,2026-11-27,1713000,SGD
+Cityscape Consulting - CRM Integration,Negotiation/Review,2027-02-03,1645000,EUR
+SilverLine Trading - Salesforce Implementation,Qualification,2027-04-16,10702000,SGD
+Prime Foods - Distribution Platform Implementation,Value Proposition,2027-04-24,431000,CNY
+Crescent Bank - Distribution Platform Implementation,Value Proposition,2027-03-13,1747000,EUR
+Pioneer Holdings - Partner Portal Implementation,Needs Analysis,2026-12-20,3664000,GBP
+Sterling Textiles - Application Modernization,Qualification,2026-11-13,28013000,GBP
+Redwood Consulting - Salesforce Implementation,Qualification,2027-04-12,3169000,JPY
+NorthStar Solutions - Sales Automation,Id. Decision Makers,2027-04-21,1776000,CAD
+BlueWave Manufacturing - Business Process Automation,Prospecting,2027-02-01,31140000,GBP
+Infinity Pharmaceuticals - Sales Cloud Deployment,Proposal/Price Quote,2027-01-16,290000,SGD
+Prime Solutions - System Integration,Prospecting,2027-05-06,1795000,USD
+Vision Holdings - Customer Service Transformation,Perception Analysis,2026-12-02,3834000,USD
+Evergreen Trading - Cloud Migration,Proposal/Price Quote,2027-05-02,4976000,AUD
+Frontier Electronics - Service Automation,Qualification,2027-03-28,13186000,EUR
+Vision Technologies - CRM Modernization,Prospecting,2026-10-13,409000,CHF
+Frontier Technologies - Service Cloud Deployment,Negotiation/Review,2027-04-05,102000,CNY
+Eastern Industries - Distribution Platform Implementation,Id. Decision Makers,2026-10-21,3012000,CAD
+Beacon Foods - Digital Transformation,Prospecting,2027-04-17,238000,CHF
+Horizon Retail - Business Process Automation,Prospecting,2027-02-08,2010000,EUR
+Eastern Textiles - Partner Portal Implementation,Prospecting,2027-05-06,2520000,USD
+Atlas Engineering - CRM Implementation,Value Proposition,2026-11-24,2631000,GBP
+Eastern Energy - Data Migration Project,Id. Decision Makers,2027-05-14,9826000,GBP
+Nova Healthcare - CRM Modernization,Prospecting,2027-01-17,14858000,AUD
+Prime Engineering - Customer Experience Enhancement,Negotiation/Review,2027-03-21,493000,EUR
+Pioneer Pharmaceuticals - System Integration,Negotiation/Review,2027-05-02,2490000,EUR
+Pioneer Group - Service Cloud Deployment,Qualification,2026-12-10,29906000,EUR
+Harmony Foods - Customer Portal Development,Proposal/Price Quote,2027-01-05,347000,USD
+Delta Telecom - Customer Experience Enhancement,Perception Analysis,2026-10-08,17502000,SGD
+Prime Logistics - Sales Cloud Deployment,Proposal/Price Quote,2026-12-08,8861000,GBP
+Galaxy Technologies - Business Process Automation,Qualification,2027-03-07,181000,JPY
+Nova Foods - System Integration,Id. Decision Makers,2027-03-13,1647000,AUD
+GreenField Trading - Salesforce Implementation,Proposal/Price Quote,2027-03-10,463000,JPY
+Atlas Services - Sales Cloud Deployment,Value Proposition,2027-04-01,205000,GBP
+Horizon Healthcare - Digital Transformation,Needs Analysis,2026-11-16,333000,EUR
+Vision Engineering - Customer Experience Enhancement,Needs Analysis,2027-02-01,18933000,CHF
+Nova Finance - Enterprise Software Deal,Proposal/Price Quote,2027-01-27,29903000,USD
+Nexus Corporation - Service Automation,Qualification,2026-10-25,1132000,CAD
+Eastern Systems - Distribution Platform Implementation,Negotiation/Review,2027-05-04,3834000,USD
+Metro Trading - Application Modernization,Perception Analysis,2026-12-28,257000,INR
+GreenField Textiles - CRM Integration,Value Proposition,2027-01-20,2699000,USD
+Nexus Retail - CRM Integration,Proposal/Price Quote,2026-12-30,173000,JPY
+Summit Industries - Application Modernization,Value Proposition,2027-02-16,2357000,GBP
+Eastern Group - Business Process Automation,Value Proposition,2027-01-22,10070000,AUD
+Beacon Motors - Dealer Management Project,Prospecting,2026-10-07,10106000,AUD
+Evergreen Technologies - Distribution Platform Implementation,Prospecting,2026-11-25,7276000,INR
+Sterling Group - Dealer Management Project,Needs Analysis,2027-04-04,4016000,EUR
+Skyline Corporation - Sales Automation,Id. Decision Makers,2027-05-10,1331000,JPY
+Sterling Foods - Salesforce Implementation,Value Proposition,2026-12-06,244000,SGD
+Momentum Engineering - Application Modernization,Needs Analysis,2026-11-25,6667000,USD
+BlueWave Systems - Customer Service Transformation,Needs Analysis,2027-05-14,32035000,INR
+Metro Retail - Workflow Automation,Qualification,2026-10-27,18828000,USD
+Evergreen Textiles - Salesforce Implementation,Id. Decision Makers,2027-03-09,679000,GBP
+Redwood Telecom - Customer Portal Development,Qualification,2026-10-28,8443000,USD
+Sunrise Retail - Business Process Automation,Perception Analysis,2026-11-18,2455000,USD
+BrightStar Services - Digital Transformation,Prospecting,2027-05-14,2826000,EUR
+SilverLine Textiles - Sales Cloud Deployment,Prospecting,2026-10-29,1964000,SGD
+Beacon Corporation - Dealer Management Project,Proposal/Price Quote,2026-10-29,464000,USD
+Metro Logistics - Application Modernization,Value Proposition,2026-09-30,77000,CAD
+Infinity Healthcare - Service Automation,Needs Analysis,2026-10-25,4495000,USD
+Frontier Engineering - Application Modernization,Needs Analysis,2027-02-24,314000,GBP
+Skyline Retail - Analytics Implementation,Value Proposition,2027-03-31,19546000,USD
+Golden Telecom - Salesforce Implementation,Qualification,2027-03-09,22041000,AUD
+GreenField Foods - CRM Implementation,Proposal/Price Quote,2027-01-13,4613000,INR
+Metro Enterprises - Sales Cloud Deployment,Needs Analysis,2027-05-14,369000,AUD
+Harmony Consulting - Application Modernization,Prospecting,2027-03-04,3228000,USD
+Vertex Systems - Data Migration Project,Value Proposition,2026-12-10,4109000,EUR
+GreenField Logistics - Platform Upgrade,Id. Decision Makers,2027-05-02,2304000,USD
+Sunrise Consulting - Distribution Platform Implementation,Proposal/Price Quote,2027-01-09,4304000,GBP
+BlueWave Retail - Sales Automation,Id. Decision Makers,2026-12-15,2638000,EUR
+Pioneer Technologies - Distribution Platform Implementation,Prospecting,2027-01-25,486000,EUR
+Eastern Corporation - Service Automation,Needs Analysis,2027-04-04,1591000,USD
+Prime Textiles - Business Process Automation,Value Proposition,2027-02-16,1525000,JPY
+SilverLine Industries - Platform Upgrade,Proposal/Price Quote,2027-04-06,932000,GBP
+TechNova Pharmaceuticals - Application Modernization,Value Proposition,2026-12-25,316000,INR
+Orion Foods - Data Migration Project,Id. Decision Makers,2026-11-22,10874000,USD
+Infinity Foods - ERP Integration,Needs Analysis,2027-04-09,169000,SGD
+GreenField Engineering - Digital Transformation,Proposal/Price Quote,2027-04-10,15294000,CAD
+Atlas Energy - Workflow Automation,Value Proposition,2027-02-28,18916000,AUD
+Sterling Bank - ERP Integration,Prospecting,2026-12-04,3092000,AUD
+Orion Engineering - System Integration,Qualification,2026-11-11,14501000,CNY
+TechNova Finance - Workflow Automation,Prospecting,2027-04-03,757000,AUD
+NorthStar Technologies - Customer Service Transformation,Value Proposition,2026-12-31,3360000,USD
+Crystal Industries - Customer Experience Enhancement,Qualification,2026-12-18,14523000,USD
+Frontier Manufacturing - Dealer Management Project,Proposal/Price Quote,2026-11-04,374000,JPY
+Royal Trading - Customer Portal Development,Prospecting,2027-01-17,4574000,USD
+Nexus Technologies - Platform Upgrade,Needs Analysis,2026-11-20,6910000,JPY
+Cityscape Group - CRM Implementation,Prospecting,2027-03-18,4582000,EUR
+Harmony Bank - Analytics Implementation,Qualification,2026-11-21,960000,JPY
+Golden Retail - Dealer Management Project,Qualification,2026-11-19,17820000,USD
+Skyline Foods - Salesforce Implementation,Qualification,2026-09-27,4113000,EUR
+Sunrise Textiles - Service Automation,Needs Analysis,2027-03-25,343000,USD
+Frontier Industries - Service Automation,Perception Analysis,2026-10-14,855000,SGD
+Eastern Electronics - Sales Cloud Deployment,Needs Analysis,2026-10-15,14660000,GBP
+Momentum Consulting - Customer Service Transformation,Needs Analysis,2027-03-08,1466000,GBP
+Vertex Engineering - Distribution Platform Implementation,Negotiation/Review,2026-11-08,15370000,GBP
+Atlas Retail - CRM Implementation,Id. Decision Makers,2026-12-27,493000,GBP
+SilverLine Motors - Business Process Automation,Needs Analysis,2027-01-06,3820000,USD
+Royal Services - Platform Upgrade,Perception Analysis,2026-11-21,1910000,CHF
+Momentum Motors - ERP Integration,Value Proposition,2027-02-08,3431000,USD
+Frontier Pharmaceuticals - ERP Integration,Negotiation/Review,2027-03-10,8964000,EUR
+Sunrise Systems - Business Process Automation,Qualification,2026-11-09,1132000,USD
+Atlas Pharmaceuticals - CRM Implementation,Perception Analysis,2027-01-30,4266000,USD
+Crystal Foods - CRM Integration,Proposal/Price Quote,2027-03-09,3211000,AUD
+Unity Group - Sales Automation,Value Proposition,2026-11-03,4434000,SGD
+Evergreen Finance - Business Process Automation,Qualification,2026-12-05,3452000,GBP
+Vision Retail - Service Cloud Deployment,Qualification,2027-01-19,243000,GBP
+SilverLine Logistics - Distribution Platform Implementation,Prospecting,2027-05-05,23030000,SGD
+Redwood Systems - Business Process Automation,Value Proposition,2027-01-22,844000,JPY
+BlueWave Foods - Business Process Automation,Perception Analysis,2027-03-11,367000,GBP
+Metro Consulting - CRM Modernization,Prospecting,2026-10-11,3381000,GBP
+Prime Retail - CRM Implementation,Prospecting,2027-03-10,180000,INR
+Frontier Trading - Sales Automation,Negotiation/Review,2027-02-07,1832000,AUD
+Crescent Corporation - Sales Automation,Proposal/Price Quote,2027-01-03,3338000,EUR
+NorthStar Bank - Distribution Platform Implementation,Prospecting,2027-03-06,1053000,AUD
+Galaxy Corporation - Customer Service Transformation,Value Proposition,2027-01-02,429000,EUR
+Zenith Solutions - Service Automation,Negotiation/Review,2027-02-27,10593000,SGD
+Vision Bank - Workflow Automation,Id. Decision Makers,2026-12-24,3788000,USD
+Nova Systems - CRM Integration,Id. Decision Makers,2026-10-17,3660000,USD
+Galaxy Consulting - Sales Cloud Deployment,Qualification,2026-10-28,4916000,AUD
+Velocity Manufacturing - Application Modernization,Id. Decision Makers,2027-02-03,3542000,USD
+Crystal Manufacturing - Service Automation,Negotiation/Review,2026-12-22,13158000,EUR
+Galaxy Trading - Sales Automation,Negotiation/Review,2026-11-04,493000,USD
+Crystal Corporation - Business Process Automation,Value Proposition,2027-02-11,19826000,CAD
+GlobalTech Retail - Service Automation,Id. Decision Makers,2027-05-08,7199000,JPY
+Nova Engineering - Sales Automation,Prospecting,2026-11-11,17937000,JPY
+Golden Pharmaceuticals - Sales Automation,Proposal/Price Quote,2027-03-29,3947000,JPY
+Delta Services - Customer Service Transformation,Id. Decision Makers,2027-01-17,4266000,EUR
+Momentum Solutions - Workflow Automation,Qualification,2027-04-21,19011000,USD
+Velocity Finance - Service Automation,Id. Decision Makers,2027-02-19,35491000,USD
+Golden Foods - Digital Transformation,Perception Analysis,2027-02-01,1859000,CAD
+Momentum Systems - Cloud Migration,Perception Analysis,2026-10-31,5875000,SGD
+NorthStar Trading - Digital Transformation,Proposal/Price Quote,2027-02-14,16935000,AUD
+Apex Finance - Cloud Migration,Proposal/Price Quote,2026-12-07,134000,SGD
+Metro Engineering - Enterprise Software Deal,Proposal/Price Quote,2026-11-02,6539000,EUR
+GlobalTech Pharmaceuticals - CRM Modernization,Qualification,2027-01-19,5447000,CNY
+Crystal Solutions - Customer Experience Enhancement,Needs Analysis,2026-12-30,93000,GBP
+GlobalTech Textiles - Salesforce Implementation,Prospecting,2026-10-21,15905000,EUR
+Zenith Industries - CRM Modernization,Prospecting,2026-10-05,485000,EUR
+Nova Technologies - Customer Service Transformation,Proposal/Price Quote,2027-04-08,4263000,GBP
+Skyline Healthcare - ERP Integration,Proposal/Price Quote,2026-09-30,488000,JPY
+Evergreen Telecom - Enterprise Software Deal,Negotiation/Review,2027-02-28,1433000,USD
+Skyline Group - Sales Cloud Deployment,Qualification,2026-10-27,270000,CAD
+Summit Textiles - ERP Integration,Value Proposition,2026-10-12,312000,JPY
+SilverLine Technologies - Service Automation,Prospecting,2027-02-04,1704000,JPY
+Vertex Corporation - Enterprise Software Deal,Prospecting,2026-12-25,268000,EUR
+Prime Systems - Enterprise Software Deal,Id. Decision Makers,2027-02-07,22271000,USD
+Delta Group - Application Modernization,Value Proposition,2027-04-15,38594000,CNY
+Apex Pharmaceuticals - Customer Service Transformation,Proposal/Price Quote,2026-10-07,3631000,USD
+Sunrise Logistics - Service Cloud Deployment,Prospecting,2027-04-15,176000,EUR
+Infinity Engineering - Platform Upgrade,Value Proposition,2027-04-11,3289000,CAD
+Pioneer Logistics - Service Cloud Deployment,Qualification,2026-12-21,7938000,USD
+Beacon Electronics - Customer Portal Development,Id. Decision Makers,2027-03-23,2029000,SGD
+Prime Healthcare - System Integration,Prospecting,2027-04-12,5620000,SGD
+TechNova Telecom - Sales Cloud Deployment,Prospecting,2026-11-16,10295000,EUR
+Royal Energy - Dealer Management Project,Value Proposition,2027-04-22,2625000,CNY
+Cityscape Trading - Sales Cloud Deployment,Id. Decision Makers,2026-12-08,901000,USD
+Golden Healthcare - Application Modernization,Qualification,2026-10-27,12331000,SGD
+Sunrise Finance - Digital Transformation,Perception Analysis,2027-05-13,31376000,CHF
+Golden Consulting - Digital Transformation,Needs Analysis,2027-01-31,4856000,INR
+Horizon Trading - Sales Cloud Deployment,Prospecting,2027-01-12,366000,EUR
+Unity Energy - Customer Service Transformation,Qualification,2026-12-10,1172000,INR
+Infinity Group - Analytics Implementation,Qualification,2027-01-18,4075000,EUR
+SilverLine Energy - Distribution Platform Implementation,Needs Analysis,2027-01-18,235000,USD
+Delta Enterprises - Cloud Migration,Needs Analysis,2027-03-08,21925000,JPY
+Zenith Systems - Customer Experience Enhancement,Value Proposition,2026-12-28,1842000,USD
+Nexus Foods - Customer Experience Enhancement,Prospecting,2027-02-28,4176000,CNY
+Vision Industries - Analytics Implementation,Prospecting,2027-04-13,3538000,USD
+Metro Energy - Platform Upgrade,Value Proposition,2027-02-27,286000,EUR
+Harmony Telecom - Service Automation,Needs Analysis,2027-04-09,122000,CNY
+Evergreen Corporation - Analytics Implementation,Needs Analysis,2027-03-11,109000,JPY
+Sunrise Holdings - Dealer Management Project,Qualification,2027-02-05,1488000,USD
+Eastern Healthcare - Data Migration Project,Qualification,2027-01-18,371000,EUR
+GreenField Pharmaceuticals - Enterprise Software Deal,Proposal/Price Quote,2027-01-29,121000,EUR
+Crystal Bank - Cloud Migration,Needs Analysis,2027-05-14,1236000,SGD
+Metro Manufacturing - ERP Integration,Negotiation/Review,2026-12-16,1045000,SGD
+NorthStar Logistics - Digital Transformation,Qualification,2026-12-11,16942000,JPY
+Summit Trading - Data Migration Project,Id. Decision Makers,2026-11-09,13536000,AUD
+Apex Solutions - Enterprise Software Deal,Negotiation/Review,2027-04-16,464000,USD
+Nexus Trading - Sales Cloud Deployment,Needs Analysis,2027-02-19,1589000,GBP
+Zenith Group - Platform Upgrade,Prospecting,2026-12-14,4515000,JPY
+Eastern Consulting - Partner Portal Implementation,Perception Analysis,2027-04-24,1551000,JPY
+Crystal Engineering - Distribution Platform Implementation,Id. Decision Makers,2027-01-19,4840000,INR
+Zenith Finance - Customer Portal Development,Proposal/Price Quote,2027-04-13,2026000,EUR
+Skyline Energy - Dealer Management Project,Prospecting,2027-02-01,5930000,CAD
+Metro Textiles - Partner Portal Implementation,Value Proposition,2026-12-12,219000,SGD
+TechNova Holdings - CRM Integration,Qualification,2027-02-05,19192000,CNY
+Golden Holdings - Analytics Implementation,Qualification,2027-02-14,378000,USD
+Evergreen Motors - Analytics Implementation,Value Proposition,2027-02-01,1793000,EUR
+Beacon Bank - Distribution Platform Implementation,Value Proposition,2027-05-14,846000,USD
+Redwood Services - CRM Implementation,Prospecting,2026-10-07,17936000,SGD
+Momentum Pharmaceuticals - Sales Automation,Id. Decision Makers,2027-04-10,754000,JPY
+Nova Logistics - Dealer Management Project,Value Proposition,2026-12-09,3034000,GBP
+Redwood Pharmaceuticals - CRM Modernization,Perception Analysis,2027-03-20,4305000,GBP
+Prime Consulting - Service Automation,Prospecting,2027-01-16,4396000,USD
+Nexus Pharmaceuticals - Sales Cloud Deployment,Value Proposition,2026-12-15,10357000,USD
+GlobalTech Manufacturing - Data Migration Project,Proposal/Price Quote,2027-01-06,244000,CAD
+Harmony Motors - Partner Portal Implementation,Prospecting,2026-11-26,2744000,GBP
+Beacon Industries - Data Migration Project,Prospecting,2026-10-08,251000,GBP
+Delta Healthcare - Digital Transformation,Needs Analysis,2027-05-05,18648000,SGD
+Vertex Industries - Salesforce Implementation,Value Proposition,2026-12-15,134000,EUR
+Momentum Enterprises - Cloud Migration,Value Proposition,2027-01-31,13344000,GBP
+Sunrise Enterprises - Digital Transformation,Negotiation/Review,2027-02-02,2519000,USD
+Beacon Energy - Workflow Automation,Qualification,2026-10-08,363000,USD
+Harmony Corporation - Sales Cloud Deployment,Id. Decision Makers,2027-01-24,54000,CHF
+Evergreen Manufacturing - CRM Implementation,Needs Analysis,2027-05-09,242000,SGD
+Crescent Retail - Sales Automation,Needs Analysis,2027-01-06,345000,CAD
+NorthStar Group - CRM Implementation,Value Proposition,2026-10-14,4278000,USD
+SilverLine Telecom - Cloud Migration,Qualification,2027-03-04,1497000,CAD
+Vertex Group - Sales Cloud Deployment,Prospecting,2026-12-30,10689000,USD
+Nova Services - Salesforce Implementation,Needs Analysis,2026-11-01,317000,JPY
+Zenith Motors - Data Migration Project,Prospecting,2026-10-05,225000,GBP
+Sterling Services - Sales Cloud Deployment,Value Proposition,2026-11-03,4824000,CAD
+Cityscape Enterprises - Salesforce Implementation,Negotiation/Review,2026-12-16,373000,USD
+BlueWave Solutions - Business Process Automation,Qualification,2026-12-21,4776000,CAD
+GlobalTech Trading - Service Cloud Deployment,Id. Decision Makers,2026-12-11,640000,JPY
+BlueWave Group - Sales Cloud Deployment,Id. Decision Makers,2027-01-10,724000,EUR
+Horizon Services - CRM Integration,Qualification,2027-03-12,18022000,JPY
+Crystal Systems - ERP Integration,Qualification,2026-10-09,1930000,JPY
+Frontier Solutions - ERP Integration,Id. Decision Makers,2027-04-12,7479000,JPY
+Royal Industries - Service Automation,Qualification,2027-02-19,6844000,SGD
+TechNova Foods - Workflow Automation,Needs Analysis,2027-01-11,412000,USD
+Summit Consulting - CRM Modernization,Value Proposition,2027-03-01,19643000,USD
+Pioneer Corporation - Sales Cloud Deployment,Id. Decision Makers,2027-03-25,159000,SGD
+BlueWave Energy - CRM Integration,Negotiation/Review,2027-01-26,3132000,JPY
+Skyline Services - Dealer Management Project,Needs Analysis,2027-02-09,3472000,CNY
+TechNova Solutions - Customer Service Transformation,Proposal/Price Quote,2027-03-19,2718000,AUD
+Crescent Pharmaceuticals - Service Cloud Deployment,Qualification,2026-11-28,206000,JPY
+Infinity Textiles - Service Cloud Deployment,Negotiation/Review,2026-12-11,16826000,USD
+Prime Finance - Partner Portal Implementation,Id. Decision Makers,2026-12-16,2794000,USD
+Vision Telecom - CRM Implementation,Value Proposition,2027-02-12,3810000,EUR
+Pioneer Telecom - Sales Automation,Negotiation/Review,2027-04-19,72000,SGD
+Redwood Finance - Sales Cloud Deployment,Id. Decision Makers,2026-12-23,16005000,EUR
+Royal Technologies - Dealer Management Project,Needs Analysis,2026-11-16,9549000,EUR
+Prime Technologies - Service Cloud Deployment,Id. Decision Makers,2026-10-31,438000,CNY
+Delta Retail - Data Migration Project,Qualification,2027-03-16,8786000,JPY
+Horizon Finance - Application Modernization,Prospecting,2027-01-09,4463000,JPY
+Momentum Finance - Data Migration Project,Perception Analysis,2026-09-27,25300000,USD
+Crystal Motors - Cloud Migration,Negotiation/Review,2027-05-08,2173000,GBP
+BrightStar Bank - Customer Portal Development,Qualification,2026-12-08,1250000,CAD
+Sunrise Group - ERP Integration,Qualification,2027-04-03,813000,AUD
+GlobalTech Foods - Enterprise Software Deal,Prospecting,2027-05-09,5610000,CHF
+Royal Telecom - System Integration,Needs Analysis,2027-01-30,443000,INR
+Apex Group - ERP Integration,Negotiation/Review,2027-05-08,206000,INR
+Harmony Services - Cloud Migration,Prospecting,2026-12-20,386000,JPY
+BlueWave Holdings - Application Modernization,Needs Analysis,2026-10-30,12852000,JPY
+GlobalTech Motors - Platform Upgrade,Perception Analysis,2026-12-19,291000,EUR
+Momentum Manufacturing - Dealer Management Project,Id. Decision Makers,2026-09-29,2975000,AUD
+NorthStar Consulting - Customer Service Transformation,Perception Analysis,2026-11-09,3902000,JPY
+Infinity Retail - System Integration,Value Proposition,2026-10-18,1300000,SGD
+Orion Trading - CRM Integration,Prospecting,2026-12-17,5115000,USD
+Royal Healthcare - Distribution Platform Implementation,Qualification,2027-04-06,223000,EUR
+Orion Motors - Cloud Migration,Id. Decision Makers,2026-09-28,239000,EUR
+Sunrise Technologies - Workflow Automation,Prospecting,2026-10-26,1840000,AUD
+BlueWave Bank - Analytics Implementation,Value Proposition,2027-05-13,17916000,GBP
+Evergreen Services - Cloud Migration,Prospecting,2026-12-10,2353000,EUR
+Zenith Telecom - Data Migration Project,Prospecting,2026-11-04,3634000,USD
+BrightStar Healthcare - Digital Transformation,Value Proposition,2027-01-24,18455000,GBP
+Crystal Consulting - CRM Integration,Qualification,2026-11-28,1187000,AUD
+Velocity Engineering - Digital Transformation,Value Proposition,2026-12-27,346000,JPY
+Eastern Engineering - Customer Portal Development,Proposal/Price Quote,2027-02-02,331000,USD
+BrightStar Electronics - Cloud Migration,Qualification,2027-02-06,2223000,USD
+Sunrise Trading - Cloud Migration,Needs Analysis,2027-05-14,967000,AUD
+Cityscape Telecom - Customer Portal Development,Value Proposition,2027-01-20,4379000,GBP
+Pioneer Textiles - Cloud Migration,Qualification,2026-10-01,525000,AUD
+Unity Pharmaceuticals - CRM Integration,Value Proposition,2026-10-07,1035000,CAD
+Nexus Electronics - CRM Integration,Prospecting,2027-05-12,298000,JPY
+Evergreen Healthcare - Customer Portal Development,Needs Analysis,2027-04-10,386000,USD
+Pioneer Services - Distribution Platform Implementation,Id. Decision Makers,2027-01-11,3708000,INR
+Delta Solutions - Platform Upgrade,Proposal/Price Quote,2026-12-31,1616000,GBP
+Redwood Manufacturing - Dealer Management Project,Qualification,2026-11-10,33189000,AUD
+Crescent Textiles - ERP Integration,Id. Decision Makers,2026-11-22,17687000,JPY
+Unity Solutions - Customer Service Transformation,Qualification,2027-03-17,4058000,USD
+Redwood Textiles - Customer Experience Enhancement,Proposal/Price Quote,2026-11-28,1801000,JPY
+Delta Electronics - Salesforce Implementation,Negotiation/Review,2027-03-30,5541000,EUR
+Royal Finance - Enterprise Software Deal,Needs Analysis,2027-04-10,19916000,CAD
+Nexus Healthcare - Customer Experience Enhancement,Qualification,2026-10-21,4245000,USD
+Zenith Bank - Customer Portal Development,Id. Decision Makers,2026-10-08,73000,JPY
+Beacon Solutions - Enterprise Software Deal,Qualification,2026-11-20,18020000,GBP
+Galaxy Manufacturing - Workflow Automation,Value Proposition,2026-12-09,434000,USD
+SilverLine Pharmaceuticals - Service Cloud Deployment,Value Proposition,2027-04-11,3190000,JPY
+Harmony Systems - Service Automation,Proposal/Price Quote,2027-03-14,3969000,USD
+Summit Corporation - Workflow Automation,Prospecting,2027-02-24,7938000,EUR
+NorthStar Systems - Workflow Automation,Needs Analysis,2027-01-30,231000,JPY
+Zenith Holdings - Service Cloud Deployment,Id. Decision Makers,2027-04-15,3992000,CNY
+Infinity Systems - Customer Experience Enhancement,Qualification,2026-11-12,12944000,GBP
+Royal Pharmaceuticals - Customer Service Transformation,Qualification,2027-05-03,4384000,EUR
+Skyline Enterprises - Sales Cloud Deployment,Value Proposition,2027-01-10,1625000,CHF
+Sterling Corporation - ERP Integration,Qualification,2026-12-19,4273000,EUR
+Atlas Telecom - Data Migration Project,Prospecting,2027-03-30,5865000,SGD
+Harmony Energy - Customer Service Transformation,Id. Decision Makers,2027-02-27,88000,EUR
+Vision Healthcare - CRM Implementation,Perception Analysis,2027-03-30,2320000,USD
+Zenith Pharmaceuticals - Customer Experience Enhancement,Proposal/Price Quote,2026-12-20,629000,GBP
+Pioneer Electronics - Workflow Automation,Qualification,2027-04-03,445000,USD
+SilverLine Corporation - Business Process Automation,Qualification,2027-02-27,3827000,GBP
+Delta Logistics - Application Modernization,Value Proposition,2027-04-12,294000,CHF
+Sunrise Solutions - Partner Portal Implementation,Qualification,2026-12-01,4671000,JPY
+Royal Logistics - CRM Integration,Perception Analysis,2027-03-29,3186000,GBP
+Pioneer Enterprises - Customer Service Transformation,Needs Analysis,2027-01-09,166000,CHF
+Delta Systems - Service Automation,Prospecting,2027-02-14,14716000,CAD
+Crescent Technologies - CRM Modernization,Qualification,2026-11-15,3686000,AUD
+Sterling Solutions - Analytics Implementation,Qualification,2027-02-13,3332000,JPY
+Harmony Trading - Customer Experience Enhancement,Proposal/Price Quote,2027-03-30,4615000,EUR
+GreenField Healthcare - Salesforce Implementation,Id. Decision Makers,2026-12-25,428000,GBP
+Momentum Telecom - CRM Implementation,Qualification,2027-05-11,993000,JPY
+Unity Industries - Customer Service Transformation,Proposal/Price Quote,2026-10-15,16211000,JPY
+Delta Textiles - Customer Service Transformation,Prospecting,2026-10-31,8883000,USD
+Sterling Consulting - Data Migration Project,Prospecting,2026-11-20,3631000,USD
+BrightStar Finance - Customer Service Transformation,Value Proposition,2027-03-02,16061000,USD
+Horizon Technologies - System Integration,Prospecting,2027-02-14,640000,GBP
+BrightStar Industries - System Integration,Qualification,2026-12-08,476000,JPY
+Galaxy Solutions - CRM Implementation,Needs Analysis,2026-11-10,100000,
+Cityscape Holdings - Customer Experience Enhancement,Qualification,2027-03-03,3473000,
+GreenField Electronics - Enterprise Software Deal,Needs Analysis,2026-12-30,35401000,
+Nova Trading - Application Modernization,Negotiation/Review,2026-11-22,484000,XYZ
+Vertex Foods - CRM Integration,Id. Decision Makers,2027-05-03,766000,XYZ
+Zenith Services - Service Automation,Needs Analysis,2027-02-14,579000,XYZ
