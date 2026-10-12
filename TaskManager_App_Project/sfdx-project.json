@@ -1,0 +1,19 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "Task Manager",
+      "versionName": "Version 1.0",
+      "versionNumber": "1.0.0.NEXT",
+      "versionDescription": "Task Manager application"
+    }
+  ],
+  "name": "ToDO_App_Project",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "67.0",
+  "packageAliases": {
+    "Task Manager": "0Hog70000003qZxCAI",
+    "Task Manager@1.0.0-1": "04tg7000000WBoLAAW"
+  }
+}

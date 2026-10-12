@@ -1,0 +1,160 @@
+<template>
+    <lightning-card title="Task Manager" icon-name="standard:task">
+
+        <div class="slds-p-around_medium">
+
+            <h2 class="slds-text-heading_medium slds-m-bottom_medium">
+                {formTitle}
+            </h2>
+
+            <lightning-input
+                name="subject"
+                label="Subject"
+                value={subject}
+                onchange={handleChange}
+                required>
+            </lightning-input>
+
+            <lightning-input
+                class="slds-m-top_small"
+                type="date"
+                name="dueDate"
+                label="Due Date"
+                value={dueDate}
+                onchange={handleChange}>
+            </lightning-input>
+
+            <lightning-combobox
+                class="slds-m-top_small"
+                name="priority"
+                label="Priority"
+                value={priority}
+                options={priorityOptions}
+                onchange={handleChange}>
+            </lightning-combobox>
+
+            <template if:true={isEditing}>
+                <lightning-combobox
+                    class="slds-m-top_small"
+                    name="status"
+                    label="Status"
+                    value={status}
+                    options={statusOptions}
+                    onchange={handleChange}>
+                </lightning-combobox>
+            </template>
+
+            <lightning-textarea
+                class="slds-m-top_small"
+                name="description"
+                label="Description"
+                value={description}
+                onchange={handleChange}>
+            </lightning-textarea>
+
+            <div class="slds-m-top_medium">
+
+                <lightning-button
+                    variant="brand"
+                    label={saveButtonLabel}
+                    onclick={handleSave}>
+                </lightning-button>
+
+                <template if:true={isEditing}>
+                    <lightning-button
+                        class="slds-m-left_small"
+                        label="Cancel"
+                        onclick={handleCancel}>
+                    </lightning-button>
+                </template>
+
+            </div>
+        </div>
+
+        <div class="slds-p-horizontal_medium slds-p-bottom_medium">
+
+            <h2 class="slds-text-heading_medium slds-m-bottom_small">
+                My Tasks
+            </h2>
+
+            <template if:true={tasks.length}>
+
+                <template for:each={tasks} for:item="task">
+
+                    <article
+                        key={task.Id}
+                        class="slds-box slds-m-bottom_small">
+
+                        <div
+                            class="slds-grid slds-wrap slds-grid_align-spread">
+
+                            <div>
+                                <h3 class="slds-text-heading_small">
+                                    {task.Subject}
+                                </h3>
+
+                                <p>
+                                    Status: {task.Status}
+                                </p>
+
+                                <p>
+                                    Priority: {task.Priority}
+                                </p>
+
+                                <template if:true={task.ActivityDate}>
+                                    <p>
+                                        Due: {task.ActivityDate}
+                                    </p>
+                                </template>
+
+                                <template if:true={task.Description}>
+                                    <p>
+                                        {task.Description}
+                                    </p>
+                                </template>
+                            </div>
+
+                            <div class="slds-m-top_small">
+
+                                <lightning-button
+                                    label="Edit"
+                                    data-id={task.Id}
+                                    onclick={handleEdit}>
+                                </lightning-button>
+
+                                <template if:false={task.IsClosed}>
+                                    <lightning-button
+                                        class="slds-m-left_x-small"
+                                        variant="success"
+                                        label="Complete"
+                                        data-id={task.Id}
+                                        onclick={handleComplete}>
+                                    </lightning-button>
+                                </template>
+
+                                <lightning-button
+                                    class="slds-m-left_x-small"
+                                    variant="destructive"
+                                    label="Delete"
+                                    data-id={task.Id}
+                                    onclick={handleDelete}>
+                                </lightning-button>
+
+                            </div>
+
+                        </div>
+
+                    </article>
+
+                </template>
+
+            </template>
+
+            <template if:false={tasks.length}>
+                <p>No tasks found.</p>
+            </template>
+
+        </div>
+
+    </lightning-card>
+</template>
