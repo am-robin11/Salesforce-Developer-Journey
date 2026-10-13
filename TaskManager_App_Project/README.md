@@ -234,6 +234,82 @@ If you use a feature branch, create/switch to that branch before committing and 
 - Clone the repository into a fresh directory and repeat the deployment/test steps to verify the documented workflow.
 - Install the package into a clean test org if package distribution is required.
 
+
+### Install Task Manager into another Salesforce org
+
+You can install Task Manager using the Salesforce CLI, a direct installation URL, Salesforce Setup, or the package version's installation link.
+
+**Before you begin:** The package version used in these examples is `04tg7000000WBoLAAW`. It was created before some later project changes, so verify that it is still available and contains the source you intend to distribute. For a newer version, use the subscriber package version ID beginning with `04t` returned by Salesforce.
+
+#### Method 1: Install using Salesforce CLI (recommended)
+
+Authenticate to the target Salesforce org:
+
+```powershell
+sf org login web --alias TaskManagerTest --instance-url https://login.salesforce.com
+```
+
+For a sandbox, use `https://test.salesforce.com`.
+
+Install the package:
+
+```powershell
+sf package install --package 04tg7000000WBoLAAW --target-org TaskManagerTest --wait 30 --publish-wait 30
+```
+
+Replace the package ID with the version you want to install and `TaskManagerTest` with your target org alias.
+
+Verify the installation:
+
+```powershell
+sf package installed list --target-org TaskManagerTest
+```
+
+#### Method 2: Install using a direct URL
+
+For a production or Developer Edition org, open:
+
+https://login.salesforce.com/packaging/installPackage.apexp?p0=04tg7000000WBoLAAW
+
+For a sandbox, use:
+
+https://test.salesforce.com/packaging/installPackage.apexp?p0=04tg7000000WBoLAAW
+
+Sign in to the destination org, review the package details and installation scope, and follow the prompts to install it.
+
+For a new package version, replace the ID in the URL with the new subscriber package version ID. An installation URL does not automatically update when a newer version is created.
+
+#### Method 3: Install from Salesforce Setup
+
+1. Sign in to the org where you want to install Task Manager.
+2. Open **Setup**.
+3. Search Quick Find for **Install a Package** and open that page if available.
+4. Enter the subscriber package version ID, such as `04tg7000000WBoLAAW`, in the package field. If the page accepts an installation URL, you can paste the complete URL instead.
+5. Continue through the confirmation screens and install the package.
+
+Use the actual package version ID you intend to install. If the page is unavailable in your org or rejects the input, use Method 1 or Method 2.
+
+#### Method 4: Copy the installation URL from the package details
+
+1. Sign in to the Dev Hub used to create the package.
+2. Open **Setup → Package Manager**, or the package-version detail page available in your org.
+3. Find the specific package version.
+4. Copy its installation URL if Salesforce provides one.
+5. Verify that the URL refers to the intended subscriber package version ID before sharing it.
+
+Do not confuse the package ID with the subscriber package version ID. The latter is the ID used to install a specific version.
+
+#### After installation
+
+- Check **Setup → Installed Packages** to confirm the package is installed.
+- Open Task Manager from the App Launcher.
+- Test creating, viewing, editing, completing, and deleting tasks.
+- Confirm that the target users have the required access to the app and standard Task fields.
+- Test in a separate org before sharing the installation link publicly.
+
+Installing a package does not automatically assign a permission set to every user. Review the app's access requirements and configure user permissions as needed.
+
+
 ## Important limitations and security notes
 
 - The app uses Salesforce's standard `Task` object, not a custom `Task__c` object. It does not need to package a definition for the standard object.
